@@ -1,4 +1,4 @@
-- 👋 Hi, Software Ingeneer +6 years of experience
+- 👋 Hi, Software Engineer +6 years of experience
 - 🏅 Certified in AWS
 - 📂 Projects based on Java, go, python
 - ❤️ Gitops & Scripting
