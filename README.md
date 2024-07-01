@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">Software Engineer +6 years of experience</h3>
+<h1 align="center">Hello world👋, I'm Diego</h1>
+<h3 align="center">Software Engineer working as AWS Devops engineer</h3>
+<h4 align="center">+6 years of experience 💼</h4>
 
-- 🏅 AWS Certified Associated level **SysOps Administrator & Solutions Architect**
+
+- 🏅 AWS Certified **[Visit my Credly](https://www.credly.com/users/diego-rod)**
 
 - 📂 Projects based **Cloud infrastructure & edge technologies**
 
