@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+AI/ML+Focus;%2B8+years+building+scalable+systems;Python+%7C+LLMs+%7C+Cloud+%7C+Full-Stack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Application+Manager;%2B8+years+shipping+quality+products;AI-Powered+Development+%7C+Full-Stack" alt="Typing SVG" />
 
 </div>
 
@@ -21,13 +21,14 @@
 
 ## 👨‍💼 About Me
 
-**Software Engineer** with 8+ years building scalable systems, currently **focused on AI/ML engineering** and full-stack development.
+**Software Engineer & Application Manager** with 8+ years shipping production software. I build **full-stack applications** using **AI-native development workflows** powered by Claude, GitHub Copilot, and Claude Code.
 
-Experienced in designing **production AI/ML pipelines**, **LLM integrations**, and **cloud-native applications**. Passionate about turning complex problems into elegant solutions through code, data, and intelligent systems.
+I focus on **clean architecture**, **scalable systems**, and **rapid iteration** — leveraging modern AI tools to code smarter, not just faster. Experienced in managing application lifecycles from architecture to deployment.
 
-- 🤖 AI/ML Engineering & LLM Integration
-- 🔧 Full-Stack Software Development
-- ☁️ Cloud Architecture (AWS, GCP, Azure)
+- 🤖 AI-Native Development (Claude, Copilot, Claude Code)
+- 🏗️ Full-Stack Application Architecture
+- 🚀 Application Manager & Team Lead
+- ☁️ Cloud Infrastructure & Deployment
 - 📚 Detailed case studies available in my **[portfolio](https://dierodfer.github.io/portfolio/)**
 
 ---
@@ -38,11 +39,11 @@ Experienced in designing **production AI/ML pipelines**, **LLM integrations**, a
 
 | 🎖️ | Achievement |
 |---|---|
-| **🤖** | AI/ML Engineering & LLM Expert |
+| **🤖** | AI-Native Development Specialist |
 | **🚀** | 537+ GitHub Contributions |
-| **📦** | 14+ Public Repositories |
-| **🧠** | Machine Learning Model Development |
-| **☁️** | Full-Stack Cloud Architecture |
+| **📦** | 14+ Production Applications |
+| **⚙️** | Full-Stack Application Architecture |
+| **👥** | Application Management & Leadership |
 
 </div>
 
@@ -50,40 +51,35 @@ Experienced in designing **production AI/ML pipelines**, **LLM integrations**, a
 
 ## 🛠️ Tech Expertise
 
-### **AI & Machine Learning**
+### **AI-Powered Development Tools**
+![Claude](https://img.shields.io/badge/Claude-0D6377?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-2EA3F7?style=for-the-badge&logo=anthropic&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### **Backend & Full-Stack Development**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-OpenAI%2FClaude-412991?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### **Infrastructure & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
-### **CI/CD & Automation**
+### **CI/CD, Monitoring & DevOps**
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Flux](https://img.shields.io/badge/Flux-5468FF?style=for-the-badge&logo=flux&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=FFEC6E)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
-
-### **Monitoring & Observability**
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
-### **Backend & Full-Stack**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
@@ -116,6 +112,6 @@ Experienced in designing **production AI/ML pipelines**, **LLM integrations**, a
 
 ---
 
-**Built with ☕ and deployed to AWS**
+**Built with ☕ Claude & deployed to AWS**
 
 </div>
