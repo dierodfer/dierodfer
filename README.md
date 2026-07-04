@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Tech+Leader;%2B8+years%3A+Full-Stack+%3E+Backend+%3E+DevOps+%3E+Tech+Leader;AI-Powered+Development+%7C+Team+Leadership" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Architect+%7C+Tech+Leader;Enterprise+systems+%7C+Modern+innovation;Java+%26+Go+%7C+Microservices+%26+Cloud" alt="Typing SVG" />
 
 </div>
 
@@ -21,15 +21,16 @@
 
 ## 👨‍💼 About Me
 
-**Software Engineer & Tech Leader** with 8+ years shipping production software. I've evolved through multiple roles — **Full-Stack → Backend → DevOps → Tech Leader** — bringing broad technical perspective to engineering leadership.
+**Software Architect & Tech Leader** with 8+ years designing and shipping systems at scale. I operate in **two worlds**:
 
-Today I build **full-stack applications** using **AI-native development workflows** (Claude, GitHub Copilot, Claude Code) while leading high-performing teams. I focus on **clean architecture**, **scalable systems**, and **rapid iteration** — solving complex problems through code and mentorship.
+### 🏢 **By Day: Enterprise Architect**
+Design and lead microservices architectures for large-scale systems. Specialize in **Spring Boot**, **Hexagonal Architecture**, **Kafka**, and **Kubernetes**. Built systems handling millions of transactions. Strong background in DevOps, cloud infrastructure, and technical leadership.
 
-- 👥 Tech Leadership & Team Mentorship
-- 🤖 AI-Native Development (Claude, Copilot, Claude Code)
-- 🏗️ Full-Stack & Backend Architecture
-- ☁️ Cloud Infrastructure & DevOps
-- 📚 Detailed case studies available in my **[portfolio](https://dierodfer.github.io/portfolio/)**
+### 🚀 **By Night: Modern Innovator**
+Ship fast with cutting-edge tech: **Go**, **React**, **Firebase**, **TypeScript**. Experiment with cloud-native approaches and elegant solutions. Build side projects that explore what's possible.
+
+### 🤖 **Always: AI-Powered Development**
+Use Claude, GitHub Copilot, and Claude Code to ship better, faster. AI is a force multiplier for both worlds.
 
 ---
 
@@ -39,11 +40,11 @@ Today I build **full-stack applications** using **AI-native development workflow
 
 | 🎖️ | Achievement |
 |---|---|
-| **👥** | Tech Leader & Team Mentor |
+| **👥** | Tech Leader & Architecture Mentor |
 | **🚀** | 537+ GitHub Contributions |
-| **📦** | 14+ Production Applications |
-| **🤖** | AI-Native Development Specialist |
-| **⚙️** | Full-Stack to DevOps Journey |
+| **📦** | 14+ Shipping Products |
+| **⚙️** | Designed enterprise microservices architectures |
+| **🌍** | Worked across multiple industries at scale |
 
 </div>
 
@@ -51,31 +52,32 @@ Today I build **full-stack applications** using **AI-native development workflow
 
 ## 🛠️ Tech Stack
 
-### **AI-Powered Development**
+### **Enterprise Architecture** (Day Job)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
+### **Modern Innovation** (Side Projects)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **AI-Native Development**
 ![Claude](https://img.shields.io/badge/Claude-0D6377?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-2EA3F7?style=for-the-badge&logo=anthropic&logoColor=white)
 
-### **Backend & Full-Stack**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### **DevOps & Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-
-### **DevOps & Automation**
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <div align="center">
 
-_Full tech stack and additional expertise available in my **[portfolio](https://dierodfer.github.io/portfolio/)**_
+_Full tech expertise available in my **[portfolio](https://dierodfer.github.io/portfolio/)**_
 
 </div>
 
@@ -91,11 +93,20 @@ _Full tech stack and additional expertise available in my **[portfolio](https://
 
 ---
 
+## 💡 Philosophy
+
+- **Enterprise**: Build systems that scale, teams that ship, architectures that last
+- **Innovation**: Embrace modern tools, experiment fearlessly, keep learning
+- **Leadership**: Mentor with purpose, code with intention, lead by example
+- **AI-Powered**: Use AI as a multiplier, not a replacement — ship smarter
+
+---
+
 ## 🚀 Quick Links
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/📊_PORTFOLIO-Visit%20My%20Work-000000?style=for-the-badge)](https://dierodfer.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/📊_PORTFOLIO-Case%20Studies-000000?style=for-the-badge)](https://dierodfer.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/diegorodfer)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-View%20Repos-181717?style=for-the-badge)](https://github.com/dierodfer)
 [![AWS Credly](https://img.shields.io/badge/🏆_AWS%20Certified-View%20Badge-FF9900?style=for-the-badge)](https://www.credly.com/users/diego-rod)
@@ -106,10 +117,10 @@ _Full tech stack and additional expertise available in my **[portfolio](https://
 
 <div align="center">
 
-### 👉 [**Explore my portfolio for case studies, project details & experience**](https://dierodfer.github.io/portfolio/) 👈
+### 👉 [**Explore detailed case studies & architecture write-ups in my portfolio**](https://dierodfer.github.io/portfolio/) 👈
 
 ---
 
-**Built with ☕ Claude & deployed to AWS**
+**Built with ☕ Java & ⚡ Go. Shipped with Claude.**
 
 </div>
