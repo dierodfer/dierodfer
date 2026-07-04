@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dierodfer)
 [![Credly](https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/users/diego-rod)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dierodfer?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dierodfer.github.io/portfolio/)
 
 </div>
 
@@ -16,7 +16,7 @@ Software Engineer with a strong development background, currently working as a *
 
 - 🏅 AWS Certified — see credentials above
 - 🔁 Focused on Development, **GitOps**, and automation
-- 📂 Detailed case studies and project write-ups live in my **[portfolio](https://github.com/dierodfer?tab=repositories)** — this profile keeps things high-level
+- 📂 Detailed case studies and project write-ups live in my **[portfolio](https://dierodfer.github.io/portfolio/)** — this profile keeps things high-level
 
 ---
 
@@ -62,6 +62,6 @@ Software Engineer with a strong development background, currently working as a *
 
 <div align="center">
 
-📫 Let's connect on **[LinkedIn](https://linkedin.com/in/dierodfer)** or check out my work on **[GitHub](https://github.com/dierodfer?tab=repositories)**
+📫 Let's connect: **[LinkedIn](https://linkedin.com/in/dierodfer)** | **[Portfolio](https://dierodfer.github.io/portfolio/)** | **[GitHub](https://github.com/dierodfer)**
 
 </div>
