@@ -41,8 +41,8 @@ Currently architecting **microservices on AWS**, designing **release strategies*
 | **🏅** | AWS Certified Solutions Architect |
 | **🚀** | 537+ GitHub Contributions |
 | **📦** | 14+ Public Repositories |
-| **🔗** | CI/CD Pipeline Architecture Expert |
-| **⚙️** | Kubernetes Cluster Operator |
+| **💰** | Cloud Cost Optimization Specialist |
+| **🔐** | Security & Compliance Implementation |
 
 </div>
 
@@ -52,6 +52,8 @@ Currently architecting **microservices on AWS**, designing **release strategies*
 
 ### **Infrastructure & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -97,17 +99,6 @@ Currently architecting **microservices on AWS**, designing **release strategies*
 [![AWS Credly](https://img.shields.io/badge/🏆_AWS%20Certified-View%20Badge-FF9900?style=for-the-badge)](https://www.credly.com/users/diego-rod)
 
 </div>
-
----
-
-## 💡 What I Do
-
-- **Design** scalable microservice architectures on AWS
-- **Build** robust CI/CD pipelines using GitHub Actions & GitOps
-- **Operate** Kubernetes clusters with Helm, Kustomize, and Flux
-- **Automate** infrastructure using Terraform & Infrastructure-as-Code principles
-- **Monitor** complex systems with Grafana, Splunk, and ELK Stack
-- **Secure** applications using Vault, Trivy, and security best practices
 
 ---
 
