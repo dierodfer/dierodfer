@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+DevOps+Engineer;%2B7+years+building+cloud+%26+automation;AWS+%7C+Kubernetes+%7C+GitOps" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dierodfer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diegorodfer)
 [![Credly](https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/users/diego-rod)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dierodfer.github.io/portfolio/)
 
@@ -47,12 +47,9 @@ Software Engineer with a strong development background, currently working as a *
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Contribution Streak
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dierodfer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dierodfer&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dierodfer&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
@@ -62,6 +59,6 @@ Software Engineer with a strong development background, currently working as a *
 
 <div align="center">
 
-📫 Let's connect: **[LinkedIn](https://linkedin.com/in/dierodfer)** | **[Portfolio](https://dierodfer.github.io/portfolio/)** | **[GitHub](https://github.com/dierodfer)**
+📫 Let's connect: **[LinkedIn](https://linkedin.com/in/diegorodfer)** | **[Portfolio](https://dierodfer.github.io/portfolio/)** | **[GitHub](https://github.com/dierodfer)**
 
 </div>
