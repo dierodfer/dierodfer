@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Application+Manager;%2B8+years+shipping+quality+products;AI-Powered+Development+%7C+Full-Stack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Tech+Leader;%2B8+years%3A+Full-Stack+%3E+Backend+%3E+DevOps+%3E+Tech+Leader;AI-Powered+Development+%7C+Team+Leadership" alt="Typing SVG" />
 
 </div>
 
@@ -21,14 +21,14 @@
 
 ## 👨‍💼 About Me
 
-**Software Engineer & Application Manager** with 8+ years shipping production software. I build **full-stack applications** using **AI-native development workflows** powered by Claude, GitHub Copilot, and Claude Code.
+**Software Engineer & Tech Leader** with 8+ years shipping production software. I've evolved through multiple roles — **Full-Stack → Backend → DevOps → Tech Leader** — bringing broad technical perspective to engineering leadership.
 
-I focus on **clean architecture**, **scalable systems**, and **rapid iteration** — leveraging modern AI tools to code smarter, not just faster. Experienced in managing application lifecycles from architecture to deployment.
+Today I build **full-stack applications** using **AI-native development workflows** (Claude, GitHub Copilot, Claude Code) while leading high-performing teams. I focus on **clean architecture**, **scalable systems**, and **rapid iteration** — solving complex problems through code and mentorship.
 
+- 👥 Tech Leadership & Team Mentorship
 - 🤖 AI-Native Development (Claude, Copilot, Claude Code)
-- 🏗️ Full-Stack Application Architecture
-- 🚀 Application Manager & Team Lead
-- ☁️ Cloud Infrastructure & Deployment
+- 🏗️ Full-Stack & Backend Architecture
+- ☁️ Cloud Infrastructure & DevOps
 - 📚 Detailed case studies available in my **[portfolio](https://dierodfer.github.io/portfolio/)**
 
 ---
@@ -39,11 +39,11 @@ I focus on **clean architecture**, **scalable systems**, and **rapid iteration**
 
 | 🎖️ | Achievement |
 |---|---|
-| **🤖** | AI-Native Development Specialist |
+| **👥** | Tech Leader & Team Mentor |
 | **🚀** | 537+ GitHub Contributions |
 | **📦** | 14+ Production Applications |
-| **⚙️** | Full-Stack Application Architecture |
-| **👥** | Application Management & Leadership |
+| **🤖** | AI-Native Development Specialist |
+| **⚙️** | Full-Stack to DevOps Journey |
 
 </div>
 
