@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+DevOps+Engineer;%2B7+years+designing+cloud+%26+automation;AWS+%7C+Kubernetes+%7C+GitOps+%7C+Microservices" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+AI/ML+Focus;%2B8+years+building+scalable+systems;Python+%7C+LLMs+%7C+Cloud+%7C+Full-Stack" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ![Contributions](https://img.shields.io/badge/GitHub%20Contributions-537-blue?style=for-the-badge&logo=github)
 ![Repos](https://img.shields.io/badge/Public%20Repos-14-success?style=for-the-badge&logo=github)
-![Experience](https://img.shields.io/badge/Experience-7+%20Years-orange?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-8+%20Years-orange?style=for-the-badge)
 ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-✓-FF9900?style=for-the-badge&logo=amazonaws)
 
 </div>
@@ -21,13 +21,13 @@
 
 ## 👨‍💼 About Me
 
-**Software Engineer** with deep expertise in **cloud infrastructure**, **CI/CD**, and **DevOps automation**.
+**Software Engineer** with 8+ years building scalable systems, currently **focused on AI/ML engineering** and full-stack development.
 
-Currently architecting **microservices on AWS**, designing **release strategies** on GitHub, and operating **Kubernetes** at enterprise scale. I believe in clean code, infrastructure-as-code, and automated everything.
+Experienced in designing **production AI/ML pipelines**, **LLM integrations**, and **cloud-native applications**. Passionate about turning complex problems into elegant solutions through code, data, and intelligent systems.
 
-- 🏆 AWS Certified Solutions Architect
-- 🔁 GitOps & Automation Enthusiast
-- 🏗️ Microservices & Cloud Infrastructure Specialist
+- 🤖 AI/ML Engineering & LLM Integration
+- 🔧 Full-Stack Software Development
+- ☁️ Cloud Architecture (AWS, GCP, Azure)
 - 📚 Detailed case studies available in my **[portfolio](https://dierodfer.github.io/portfolio/)**
 
 ---
@@ -38,17 +38,25 @@ Currently architecting **microservices on AWS**, designing **release strategies*
 
 | 🎖️ | Achievement |
 |---|---|
-| **🏅** | AWS Certified Solutions Architect |
+| **🤖** | AI/ML Engineering & LLM Expert |
 | **🚀** | 537+ GitHub Contributions |
 | **📦** | 14+ Public Repositories |
-| **💰** | Cloud Cost Optimization Specialist |
-| **🔐** | Security & Compliance Implementation |
+| **🧠** | Machine Learning Model Development |
+| **☁️** | Full-Stack Cloud Architecture |
 
 </div>
 
 ---
 
 ## 🛠️ Tech Expertise
+
+### **AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-OpenAI%2FClaude-412991?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### **Infrastructure & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
@@ -70,11 +78,11 @@ Currently architecting **microservices on AWS**, designing **release strategies*
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
-### **Languages**
+### **Backend & Full-Stack**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
