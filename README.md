@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## 🎯 Quick Stats
 
 <div align="center">
