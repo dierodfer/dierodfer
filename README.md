@@ -14,6 +14,8 @@
 
 <img src="https://raw.githubusercontent.com/dierodfer/dierodfer/main/languages.svg" alt="Top Languages" width="450" />
 
+<img src="https://raw.githubusercontent.com/dierodfer/dierodfer/main/profile-stats.svg" alt="Profile stats" width="480" />
+
 ## Social Platforms
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-More%20Info-000000?style=for-the-badge)](https://dierodfer.github.io/portfolio/)
