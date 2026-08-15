@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/GitHub%20Contributions-631-blue?style=for-the-badge&logo=github)
+![Contributions](https://img.shields.io/badge/GitHub%20Contributions-632-blue?style=for-the-badge&logo=github)
 ![Last 12 Months](https://img.shields.io/badge/Last%2012%20Months-358-2EA3F7?style=for-the-badge&logo=github)
 ![Repos](https://img.shields.io/badge/Public%20Repos-17-success?style=for-the-badge&logo=github)
 ![Experience](https://img.shields.io/badge/Experience-8+%20Years-orange?style=for-the-badge)
@@ -40,8 +40,8 @@ Use Claude, GitHub Copilot, and Claude Code to ship better, faster. AI is a forc
 | 🎖️ | Achievement |
 |---|---|
 | **👥** | Tech Leader & Architecture Mentor |
-| **🚀** | 631 GitHub Contributions since 2017 |
-| **📈** | 351 contributions in 2026 — most active year yet |
+| **🚀** | 632 GitHub Contributions since Oct 2017 |
+| **📈** | 350+ contributions in 2026 — most active year yet |
 | **📦** | 17 public repositories shipped |
 | **⚙️** | Designed enterprise microservices architectures |
 | **🌍** | Worked across multiple industries at scale |
@@ -100,10 +100,16 @@ _Full tech expertise available in my **[portfolio](https://dierodfer.github.io/p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dierodfer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dierodfer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+<img src="https://streak-stats.demolab.com/?user=dierodfer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dierodfer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+**Public repo languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-4%20repos-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4%20repos-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-3%20repos-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2%20repos-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1%20repo-3776AB?style=flat-square&logo=python&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-1%20repo-BC52EE?style=flat-square&logo=astro&logoColor=white)
 
 </div>
 
