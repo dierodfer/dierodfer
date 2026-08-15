@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Architect+%7C+Tech+Leader;Enterprise+systems+%7C+Modern+innovation;Java+%26+Go+%7C+Microservices+%26+Cloud" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Architect+%7C+Tech+Leader;AI+%26+Agentic+Development+Advocate;Enterprise+systems+%7C+Modern+innovation;Java+%26+Go+%7C+Microservices+%26+Cloud" alt="Typing SVG" />
 
 </div>
 
@@ -28,8 +28,24 @@ Design and lead microservices architectures for large-scale systems. Specialize 
 ### 🚀 **By Night: Modern Innovator**
 Ship fast with cutting-edge tech: **Go**, **React**, **Firebase**, **TypeScript**. Experiment with cloud-native approaches and elegant solutions. Build side projects that explore what's possible.
 
-### 🤖 **Always: AI-Powered Development**
-Use Claude, GitHub Copilot, and Claude Code to ship better, faster. AI is a force multiplier for both worlds.
+### 🤖 **Always: AI & Agentic Development**
+I'm an **intensive daily user of Claude, Claude Code, and GitHub Copilot** — from planning and architecture reviews to multi-agent workflows and autonomous coding. AI is a core part of how I design, build, and ship, not an occasional add-on. I actively **teach and promote best practices and methodologies for working with AI and AI agents**: how to prompt effectively, when to delegate vs. drive, how to review AI-generated code, and how to build agentic workflows that are safe, auditable, and genuinely productive.
+
+---
+
+## 🤖 AI & Agentic Development
+
+<div align="center">
+
+**I don't just use AI tools — I champion how teams should use them.**
+
+</div>
+
+- 🧑‍🏫 **Mentor & advocate**: I coach engineers and teams on AI-assisted development — prompting techniques, effective human-in-the-loop review, and agentic workflow design — helping others move beyond copy-paste AI usage toward disciplined, repeatable practices.
+- ⚡ **Daily driver, not a novelty**: Claude and Claude Code are part of my everyday toolchain for architecture design, code review, debugging, documentation, and shipping production features — used intensively, every day, across both my enterprise and side-project work.
+- 🧩 **Multi-agent systems**: I build and experiment with agentic workflows and multi-agent orchestration (see **[AgentColony](https://github.com/dierodfer/AgentColony)**), exploring how autonomous agents collaborate on real engineering tasks.
+- 📐 **Methodology-first**: I care about *how* AI is used as much as *that* it's used — clear guardrails, verifiable output, and workflows that scale trust in AI-assisted engineering rather than eroding it.
+- 🛠️ **Toolchain**: Claude · Claude Code · GitHub Copilot · agentic/autonomous coding workflows
 
 ---
 
@@ -40,6 +56,8 @@ Use Claude, GitHub Copilot, and Claude Code to ship better, faster. AI is a forc
 | 🎖️ | Achievement |
 |---|---|
 | **👥** | Tech Leader & Architecture Mentor |
+| **🤖** | AI & Agentic Development Advocate — teaching best practices to other engineers |
+| **⚡** | Intensive daily user of Claude, Claude Code & GitHub Copilot |
 | **🚀** | 632 GitHub Contributions since Oct 2017 |
 | **📈** | 350+ contributions in 2026 — most active year yet |
 | **📦** | 17 public repositories shipped |
@@ -120,7 +138,8 @@ _Full tech expertise available in my **[portfolio](https://dierodfer.github.io/p
 - **Enterprise**: Build systems that scale, teams that ship, architectures that last
 - **Innovation**: Embrace modern tools, experiment fearlessly, keep learning
 - **Leadership**: Mentor with purpose, code with intention, lead by example
-- **AI-Powered**: Use AI as a multiplier, not a replacement — ship smarter
+- **AI-Powered**: Use Claude and AI agents intensively as a multiplier, not a replacement — ship smarter
+- **AI Advocacy**: Teach best practices and methodologies for AI-assisted and agentic development — raise the bar for how teams work with AI, not just whether they do
 
 ---
 
@@ -143,6 +162,6 @@ _Full tech expertise available in my **[portfolio](https://dierodfer.github.io/p
 
 ---
 
-**Built with ☕ Java & ⚡ Go. Shipped with Claude.**
+**Built with ☕ Java & ⚡ Go. Shipped daily with Claude & GitHub Copilot.**
 
 </div>
