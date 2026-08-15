@@ -72,14 +72,9 @@ I solve my own problems and issues developing solutions with **Go**, **React**, 
 
 <img src="https://streak-stats.demolab.com/?user=dierodfer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 
-**Public repo languages**
+**Languages across all repos** _(auto-updated daily)_
 
-![TypeScript](https://img.shields.io/badge/TypeScript-4%20repos-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4%20repos-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-3%20repos-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-2%20repos-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1%20repo-3776AB?style=flat-square&logo=python&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-1%20repo-BC52EE?style=flat-square&logo=astro&logoColor=white)
+<img src="https://raw.githubusercontent.com/dierodfer/dierodfer/main/languages.svg" alt="Top Languages" width="450" />
 
 </div>
 
