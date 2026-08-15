@@ -28,9 +28,6 @@ Design and lead microservices architectures for large-scale systems. Specialize 
 ### 🚀 **By Night: Modern Innovator**
 Ship fast with cutting-edge tech: **Go**, **React**, **Firebase**, **TypeScript**. Experiment with cloud-native approaches and elegant solutions. Build side projects that explore what's possible.
 
-### 🤖 **Always: AI & Agentic Development**
-I'm an **intensive daily user of Claude, Claude Code, and GitHub Copilot** — from planning and architecture reviews to multi-agent workflows and autonomous coding. AI is a core part of how I design, build, and ship, not an occasional add-on. I actively **teach and promote best practices and methodologies for working with AI and AI agents**: how to prompt effectively, when to delegate vs. drive, how to review AI-generated code, and how to build agentic workflows that are safe, auditable, and genuinely productive.
-
 ---
 
 ## 🤖 AI & Agentic Development
@@ -45,7 +42,6 @@ I'm an **intensive daily user of Claude, Claude Code, and GitHub Copilot** — f
 - ⚡ **Daily driver, not a novelty**: Claude and Claude Code are part of my everyday toolchain for architecture design, code review, debugging, documentation, and shipping production features — used intensively, every day, across both my enterprise and side-project work.
 - 🧩 **Multi-agent systems**: I build and experiment with agentic workflows and multi-agent orchestration (see **[AgentColony](https://github.com/dierodfer/AgentColony)**), exploring how autonomous agents collaborate on real engineering tasks.
 - 📐 **Methodology-first**: I care about *how* AI is used as much as *that* it's used — clear guardrails, verifiable output, and workflows that scale trust in AI-assisted engineering rather than eroding it.
-- 🛠️ **Toolchain**: Claude · Claude Code · GitHub Copilot · agentic/autonomous coding workflows
 
 ---
 
@@ -58,10 +54,6 @@ I'm an **intensive daily user of Claude, Claude Code, and GitHub Copilot** — f
 | **👥** | Tech Leader & Architecture Mentor |
 | **🤖** | AI & Agentic Development Advocate — teaching best practices to other engineers |
 | **⚡** | Intensive daily user of Claude, Claude Code & GitHub Copilot |
-| **🚀** | 632 GitHub Contributions since Oct 2017 |
-| **📈** | 350+ contributions in 2026 — most active year yet |
-| **📦** | 17 public repositories shipped |
-| **⚙️** | Designed enterprise microservices architectures |
 | **🌍** | Worked across multiple industries at scale |
 
 </div>
