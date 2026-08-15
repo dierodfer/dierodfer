@@ -92,12 +92,6 @@ I'm an **intensive daily user of Claude, Claude Code, and GitHub Copilot** — f
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<div align="center">
-
-_Full tech expertise available in my **[portfolio](https://dierodfer.github.io/portfolio/)**_
-
-</div>
-
 ---
 
 ## 📌 Recent Public Work
@@ -133,16 +127,6 @@ _Full tech expertise available in my **[portfolio](https://dierodfer.github.io/p
 
 ---
 
-## 💡 Philosophy
-
-- **Enterprise**: Build systems that scale, teams that ship, architectures that last
-- **Innovation**: Embrace modern tools, experiment fearlessly, keep learning
-- **Leadership**: Mentor with purpose, code with intention, lead by example
-- **AI-Powered**: Use Claude and AI agents intensively as a multiplier, not a replacement — ship smarter
-- **AI Advocacy**: Teach best practices and methodologies for AI-assisted and agentic development — raise the bar for how teams work with AI, not just whether they do
-
----
-
 ## 🚀 Quick Links
 
 <div align="center">
@@ -151,17 +135,5 @@ _Full tech expertise available in my **[portfolio](https://dierodfer.github.io/p
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/diegorodfer)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-View%20Repos-181717?style=for-the-badge)](https://github.com/dierodfer)
 [![AWS Credly](https://img.shields.io/badge/🏆_AWS%20Certified-View%20Badge-FF9900?style=for-the-badge)](https://www.credly.com/users/diego-rod)
-
-</div>
-
----
-
-<div align="center">
-
-### 👉 [**Explore detailed case studies & architecture write-ups in my portfolio**](https://dierodfer.github.io/portfolio/) 👈
-
----
-
-**Built with ☕ Java & ⚡ Go. Shipped daily with Claude & GitHub Copilot.**
 
 </div>
