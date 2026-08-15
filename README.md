@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Tech+Leader;AI+%26+Agentic+Development+Advocate;Cloud+services+%7C+Modern+innovation;Java+%26+Go+%7C+Microservices+%26+Cloud" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Tech+Leader;AI+%26+Agentic+Development;Cloud+Architecture+%7C+Clean+Architecture;Java+%26+Go+%7C+Microservices+%26+Aplications" alt="Typing SVG" />
 
 </div>
 
@@ -18,11 +18,11 @@
 
 **Software Engineer & Tech Leader**, 8+ years shipping systems at scale. I operate in **two worlds**:
 
-### **By Day: Enterprise Applications, End to End**
-Own my applications end to end — code and infrastructure. **Spring Boot**, **Hexagonal Architecture**, **Kafka**, **Kubernetes** — systems handling millions of transactions.
+### **By Day: Enterprise Applications**
+Own my applications end to end — since requirements, code, infrastructure & maintenance. **Spring Boot**, **Hexagonal Architecture**, **Kafka**, **Kubernetes** — systems handling millions of transactions.
 
-### **By Night: Modern Innovator**
-Ship fast with **Go**, **React**, **Firebase**, **TypeScript** — side projects that explore what's possible.
+### **By Night: AI Innovator**
+I solve my own problems and issues developing solutions with **Go**, **React**, **Firebase**, **Supabase** — side projects that explore what's possible.
 
 ---
 
@@ -35,25 +35,8 @@ Ship fast with **Go**, **React**, **Firebase**, **TypeScript** — side projects
 </div>
 
 - **Mentor & advocate**: coach engineers on AI-assisted & agentic development best practices.
-- **Daily driver**: Claude & Claude Code in my everyday toolchain — design, review, shipping.
+- **Daily driver**:  Claude Code & Copilot in my everyday workflow — design, review, shipping.
 - **Multi-agent systems**: build agentic workflows and orchestration (see **[AgentColony](https://github.com/dierodfer/AgentColony)**).
-- **Methodology-first**: how AI is used matters as much as using it.
-
----
-
-## Featured Achievements
-
-<div align="center">
-
-| Achievement |
-|---|
-| Tech Lead & Mentor |
-| AI & Agentic Development Advocate |
-| Daily user: Claude, Claude Code & GitHub Copilot |
-| Worked across multiple industries at scale |
-
-</div>
-
 ---
 
 ## Stack
