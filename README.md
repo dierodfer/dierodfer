@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Architect+%7C+Tech+Leader;AI+%26+Agentic+Development+Advocate;Enterprise+systems+%7C+Modern+innovation;Java+%26+Go+%7C+Microservices+%26+Cloud" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Tech+Leader;AI+%26+Agentic+Development+Advocate;Cloud+sercives+%7C+Modern+innovation;Java+%26+Go+%7C+Microservices+%26+Cloud" alt="Typing SVG" />
 
 </div>
 
@@ -56,9 +56,9 @@ Ship fast with cutting-edge tech: **Go**, **React**, **Firebase**, **TypeScript*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
-### **Daily Tech** (Enterprise & Innovation)
+### **Daily Tech**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
