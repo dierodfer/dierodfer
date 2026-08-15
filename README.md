@@ -1,56 +1,48 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Architect+%7C+Tech+Leader;Enterprise+systems+%7C+Modern+innovation;Java+%26+Go+%7C+Microservices+%26+Cloud" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Tech+Leader;AI+%26+Agentic+Development;Cloud+Architecture+%7C+Clean+Architecture;Java+%26+Go+%7C+Microservices+%26+Aplications" alt="Typing SVG" />
 
 </div>
 
-## 🎯 Quick Stats
-
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/GitHub%20Contributions-537-blue?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Public%20Repos-14-success?style=for-the-badge&logo=github)
+![Contributions](https://img.shields.io/badge/GitHub%20Contributions-632-blue?style=for-the-badge&logo=github)
+![Last 12 Months](https://img.shields.io/badge/Last%2012%20Months-358-2EA3F7?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-17-success?style=for-the-badge&logo=github)
 ![Experience](https://img.shields.io/badge/Experience-8+%20Years-orange?style=for-the-badge)
-![AWS Certified](https://img.shields.io/badge/AWS%20Certified-✓-FF9900?style=for-the-badge&logo=amazonaws)
+![AWS Certified](https://img.shields.io/badge/AWS%20Certifications-3+-FF9900?style=for-the-badge&logo=amazonaws)
 
 </div>
 
 ---
 
-## 👨‍💼 About Me
+**Software Engineer & Tech Leader**, 8+ years shipping systems at scale. I operate in **two worlds**:
 
-**Software Architect & Tech Leader** with 8+ years designing and shipping systems at scale. I operate in **two worlds**:
+### **By Day: Enterprise Applications**
+Own my applications end to end — since requirements, code, infrastructure & maintenance. **Spring Boot**, **Hexagonal Architecture**, **Kafka**, **Kubernetes** — systems handling millions of transactions.
 
-### 🏢 **By Day: Enterprise Architect**
-Design and lead microservices architectures for large-scale systems. Specialize in **Spring Boot**, **Hexagonal Architecture**, **Kafka**, and **Kubernetes**. Built systems handling millions of transactions. Strong background in DevOps, cloud infrastructure, and technical leadership.
-
-### 🚀 **By Night: Modern Innovator**
-Ship fast with cutting-edge tech: **Go**, **React**, **Firebase**, **TypeScript**. Experiment with cloud-native approaches and elegant solutions. Build side projects that explore what's possible.
-
-### 🤖 **Always: AI-Powered Development**
-Use Claude, GitHub Copilot, and Claude Code to ship better, faster. AI is a force multiplier for both worlds.
+### **By Night: AI Innovator**
+I solve my own problems and issues developing solutions with **Go**, **React**, **Firebase**, **Supabase** — side projects that explore what's possible.
 
 ---
 
-## 🌟 Featured Achievements
+## AI & Agentic Development
 
 <div align="center">
 
-| 🎖️ | Achievement |
-|---|---|
-| **👥** | Tech Leader & Architecture Mentor |
-| **🚀** | 537+ GitHub Contributions |
-| **📦** | 14+ Shipping Products |
-| **⚙️** | Designed enterprise microservices architectures |
-| **🌍** | Worked across multiple industries at scale |
+**I don't just use AI tools — I champion how teams should use them.**
 
 </div>
 
+- **Mentor & advocate**: coach engineers on AI-assisted & agentic development best practices.
+- **Daily driver**: Claude Code & Copilot in my everyday workflow — design, review, shipping.
+- **Multi-agent systems**: build agentic workflows and orchestration (see **[AgentColony](https://github.com/dierodfer/AgentColony)**).
+
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
-### **Daily Tech** (Enterprise & Innovation)
+### **Daily Tech**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -72,52 +64,29 @@ Use Claude, GitHub Copilot, and Claude Code to ship better, faster. AI is a forc
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+---
+
+## Contribution Activity
+
 <div align="center">
 
-_Full tech expertise available in my **[portfolio](https://dierodfer.github.io/portfolio/)**_
+<img src="https://streak-stats.demolab.com/?user=dierodfer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+
+**Languages across all repos** _(auto-updated daily)_
+
+<img src="https://raw.githubusercontent.com/dierodfer/dierodfer/main/languages.svg" alt="Top Languages" width="450" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Activity
+## Quick Links
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dierodfer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-
-</div>
-
----
-
-## 💡 Philosophy
-
-- **Enterprise**: Build systems that scale, teams that ship, architectures that last
-- **Innovation**: Embrace modern tools, experiment fearlessly, keep learning
-- **Leadership**: Mentor with purpose, code with intention, lead by example
-- **AI-Powered**: Use AI as a multiplier, not a replacement — ship smarter
-
----
-
-## 🚀 Quick Links
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/📊_PORTFOLIO-Case%20Studies-000000?style=for-the-badge)](https://dierodfer.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/diegorodfer)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-View%20Repos-181717?style=for-the-badge)](https://github.com/dierodfer)
-[![AWS Credly](https://img.shields.io/badge/🏆_AWS%20Certified-View%20Badge-FF9900?style=for-the-badge)](https://www.credly.com/users/diego-rod)
-
-</div>
-
----
-
-<div align="center">
-
-### 👉 [**Explore detailed case studies & architecture write-ups in my portfolio**](https://dierodfer.github.io/portfolio/) 👈
-
----
-
-**Built with ☕ Java & ⚡ Go. Shipped with Claude.**
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Case%20Studies-000000?style=for-the-badge)](https://dierodfer.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/diegorodfer)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repos-181717?style=for-the-badge)](https://github.com/dierodfer)
+[![AWS Credly](https://img.shields.io/badge/AWS%20Certifications-View%20Badges-FF9900?style=for-the-badge)](https://www.credly.com/users/diego-rod)
 
 </div>
