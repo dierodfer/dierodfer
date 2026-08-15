@@ -10,9 +10,15 @@
 ![Last 12 Months](https://img.shields.io/badge/Last%2012%20Months-358-2EA3F7?style=for-the-badge&logo=github)
 ![Repos](https://img.shields.io/badge/Public%20Repos-17-success?style=for-the-badge&logo=github)
 ![Experience](https://img.shields.io/badge/Experience-8+%20Years-orange?style=for-the-badge)
-![AWS Certified](https://img.shields.io/badge/AWS%20Certifications-3+-FF9900?style=for-the-badge&logo=amazonaws)
+[![AWS Certified](https://img.shields.io/badge/AWS%20Certifications-3+-FF9900?style=for-the-badge&logo=amazonaws)](https://www.credly.com/users/diego-rod)
 
 <img src="https://raw.githubusercontent.com/dierodfer/dierodfer/main/languages.svg" alt="Top Languages" width="450" />
+
+## Social Platforms
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-More%20Info-000000?style=for-the-badge)](https://dierodfer.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/diegorodfer)
+[![Credly](https://img.shields.io/badge/Credly-View%20Certifications-FF9900?style=for-the-badge)](https://www.credly.com/users/diego-rod)
 
 </div>
 
@@ -72,14 +78,3 @@ I solve my own problems and issues developing solutions with **Go**, **React**, 
 </div>
 
 ---
-
-## Quick Links
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Case%20Studies-000000?style=for-the-badge)](https://dierodfer.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/diegorodfer)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repos-181717?style=for-the-badge)](https://github.com/dierodfer)
-[![AWS Credly](https://img.shields.io/badge/AWS%20Certifications-View%20Badges-FF9900?style=for-the-badge)](https://www.credly.com/users/diego-rod)
-
-</div>
