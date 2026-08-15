@@ -16,13 +16,13 @@
 
 ---
 
-**Software Engineer & Tech Leader**, with 8+ years designing and shipping systems at scale. I enjoy building, maintaining, and improving cloud applications — and I operate in **two worlds**:
+**Software Engineer & Tech Leader**, 8+ years shipping systems at scale. I operate in **two worlds**:
 
 ### **By Day: Enterprise Applications, End to End**
-I'm responsible end to end for my applications — not just the code, but the infrastructure they run on. Work daily with **Spring Boot**, **Hexagonal Architecture**, **Kafka**, and **Kubernetes**, on systems handling millions of transactions. Comfortable across the full stack: application design, DevOps, and the cloud infrastructure my apps depend on.
+Own my applications end to end — code and infrastructure. **Spring Boot**, **Hexagonal Architecture**, **Kafka**, **Kubernetes** — systems handling millions of transactions.
 
 ### **By Night: Modern Innovator**
-Ship fast with cutting-edge tech: **Go**, **React**, **Firebase**, **TypeScript**. Experiment with cloud-native approaches and elegant solutions. Build side projects that explore what's possible.
+Ship fast with **Go**, **React**, **Firebase**, **TypeScript** — side projects that explore what's possible.
 
 ---
 
@@ -34,10 +34,10 @@ Ship fast with cutting-edge tech: **Go**, **React**, **Firebase**, **TypeScript*
 
 </div>
 
-- **Mentor & advocate**: I coach engineers and teams on AI-assisted development — prompting techniques, effective human-in-the-loop review, and agentic workflow design — helping others move beyond copy-paste AI usage toward disciplined, repeatable practices.
-- **Daily driver, not a novelty**: Claude and Claude Code are part of my everyday toolchain for design, code review, debugging, documentation, and shipping production features — used intensively, every day, across both my enterprise and side-project work.
-- **Multi-agent systems**: I build and experiment with agentic workflows and multi-agent orchestration (see **[AgentColony](https://github.com/dierodfer/AgentColony)**), exploring how autonomous agents collaborate on real engineering tasks.
-- **Methodology-first**: I care about *how* AI is used as much as *that* it's used — clear guardrails, verifiable output, and workflows that scale trust in AI-assisted engineering rather than eroding it.
+- **Mentor & advocate**: coach engineers on AI-assisted & agentic development best practices.
+- **Daily driver**: Claude & Claude Code in my everyday toolchain — design, review, shipping.
+- **Multi-agent systems**: build agentic workflows and orchestration (see **[AgentColony](https://github.com/dierodfer/AgentColony)**).
+- **Methodology-first**: how AI is used matters as much as using it.
 
 ---
 
@@ -48,8 +48,8 @@ Ship fast with cutting-edge tech: **Go**, **React**, **Firebase**, **TypeScript*
 | Achievement |
 |---|
 | Tech Lead & Mentor |
-| AI & Agentic Development Advocate — teaching best practices to other engineers |
-| Intensive daily user of Claude, Claude Code & GitHub Copilot |
+| AI & Agentic Development Advocate |
+| Daily user: Claude, Claude Code & GitHub Copilot |
 | Worked across multiple industries at scale |
 
 </div>
