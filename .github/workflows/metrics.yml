@@ -30,4 +30,5 @@ jobs:
           user: dierodfer
           template: classic
           base: "header, activity, community, repositories, metadata"
+          base_indepth: yes
           filename: profile-stats.svg
