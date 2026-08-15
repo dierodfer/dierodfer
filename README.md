@@ -35,8 +35,9 @@ I solve my own problems and issues developing solutions with **Go**, **React**, 
 </div>
 
 - **Mentor & advocate**: coach engineers on AI-assisted & agentic development best practices.
-- **Daily driver**:  Claude Code & Copilot in my everyday workflow — design, review, shipping.
+- **Daily driver**: Claude Code & Copilot in my everyday workflow — design, review, shipping.
 - **Multi-agent systems**: build agentic workflows and orchestration (see **[AgentColony](https://github.com/dierodfer/AgentColony)**).
+
 ---
 
 ## Stack
