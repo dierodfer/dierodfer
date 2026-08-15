@@ -7,7 +7,6 @@
 <div align="center">
 
 ![Contributions](https://img.shields.io/badge/GitHub%20Contributions-632-blue?style=for-the-badge&logo=github)
-![Last 12 Months](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/dierodfer/dierodfer/main/contributions.json&style=for-the-badge)
 ![Repos](https://img.shields.io/badge/Public%20Repos-17-success?style=for-the-badge&logo=github)
 ![Experience](https://img.shields.io/badge/Experience-8+%20Years-orange?style=for-the-badge)
 [![AWS Certified](https://img.shields.io/badge/AWS%20Certifications-3+-FF9900?style=for-the-badge&logo=amazonaws)](https://www.credly.com/users/diego-rod)
