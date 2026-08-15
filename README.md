@@ -8,8 +8,9 @@
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/GitHub%20Contributions-537-blue?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Public%20Repos-14-success?style=for-the-badge&logo=github)
+![Contributions](https://img.shields.io/badge/GitHub%20Contributions-631-blue?style=for-the-badge&logo=github)
+![Last 12 Months](https://img.shields.io/badge/Last%2012%20Months-358-2EA3F7?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-17-success?style=for-the-badge&logo=github)
 ![Experience](https://img.shields.io/badge/Experience-8+%20Years-orange?style=for-the-badge)
 ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-✓-FF9900?style=for-the-badge&logo=amazonaws)
 
@@ -19,7 +20,7 @@
 
 ## 👨‍💼 About Me
 
-**Software Architect & Tech Leader** with 8+ years designing and shipping systems at scale. I operate in **two worlds**:
+**Software Architect & Tech Leader** based in **Málaga, Spain** 🇪🇸, with 8+ years designing and shipping systems at scale. I enjoy building, maintaining, and improving cloud applications — and I operate in **two worlds**:
 
 ### 🏢 **By Day: Enterprise Architect**
 Design and lead microservices architectures for large-scale systems. Specialize in **Spring Boot**, **Hexagonal Architecture**, **Kafka**, and **Kubernetes**. Built systems handling millions of transactions. Strong background in DevOps, cloud infrastructure, and technical leadership.
@@ -39,8 +40,9 @@ Use Claude, GitHub Copilot, and Claude Code to ship better, faster. AI is a forc
 | 🎖️ | Achievement |
 |---|---|
 | **👥** | Tech Leader & Architecture Mentor |
-| **🚀** | 537+ GitHub Contributions |
-| **📦** | 14+ Shipping Products |
+| **🚀** | 631 GitHub Contributions since 2017 |
+| **📈** | 351 contributions in 2026 — most active year yet |
+| **📦** | 17 public repositories shipped |
 | **⚙️** | Designed enterprise microservices architectures |
 | **🌍** | Worked across multiple industries at scale |
 
@@ -80,9 +82,26 @@ _Full tech expertise available in my **[portfolio](https://dierodfer.github.io/p
 
 ---
 
+## 📌 Recent Public Work
+
+| Project | Stack | What it is |
+|---|---|---|
+| **[portfolio](https://github.com/dierodfer/portfolio)** | Astro | Case studies & architecture write-ups |
+| **[cliOne](https://github.com/dierodfer/cliOne)** | Go | CLI tooling |
+| **[AgentColony](https://github.com/dierodfer/AgentColony)** | TypeScript | Multi-agent experiments |
+| **[temperatureElitechLog](https://github.com/dierodfer/temperatureElitechLog)** | Go | Log processing for Elitech temperature files |
+| **[desk-tasks](https://github.com/dierodfer/desk-tasks)** | TypeScript | Lightweight desktop task manager |
+| **[queeens](https://github.com/dierodfer/queeens)** | TypeScript | Logic puzzle game (8 queens) |
+| **[demo-hexagonal](https://github.com/dierodfer/demo-hexagonal)** | Java | Hexagonal architecture + API-first demo |
+
+---
+
 ## 🔥 Contribution Activity
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dierodfer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dierodfer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dierodfer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 
