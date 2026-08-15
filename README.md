@@ -73,7 +73,7 @@ I solve my own problems and issues developing solutions with **Go**, **React**, 
 
 <div align="center">
 
-_(auto-updated daily — current streak, avg. commits/day, full-year calendar)_
+_(auto-updated daily — current & best streak, avg. commits/day, full-year calendar)_
 
 <img src="https://raw.githubusercontent.com/dierodfer/dierodfer/main/calendar.svg" alt="Contribution calendar" width="100%" />
 
