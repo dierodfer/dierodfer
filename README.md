@@ -12,11 +12,11 @@
 ![Experience](https://img.shields.io/badge/Experience-8+%20Years-orange?style=for-the-badge)
 ![AWS Certified](https://img.shields.io/badge/AWS%20Certifications-3+-FF9900?style=for-the-badge&logo=amazonaws)
 
+<img src="https://raw.githubusercontent.com/dierodfer/dierodfer/main/languages.svg" alt="Top Languages" width="450" />
+
 </div>
 
 ---
-
-**Software Engineer & Tech Leader**, 8+ years shipping systems at scale. I operate in **two worlds**:
 
 ### **By Day: Enterprise Applications**
 Own my applications end to end — since requirements, code, infrastructure & maintenance. **Spring Boot**, **Hexagonal Architecture**, **Kafka**, **Kubernetes** — systems handling millions of transactions.
@@ -43,13 +43,12 @@ I solve my own problems and issues developing solutions with **Go**, **React**, 
 ## Stack
 
 ### **Daily Tech**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### **AI & Development Tools**
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -58,11 +57,9 @@ I solve my own problems and issues developing solutions with **Go**, **React**, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### **DevOps & Infrastructure**
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -71,10 +68,6 @@ I solve my own problems and issues developing solutions with **Go**, **React**, 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=dierodfer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-
-**Languages across all repos** _(auto-updated daily)_
-
-<img src="https://raw.githubusercontent.com/dierodfer/dierodfer/main/languages.svg" alt="Top Languages" width="450" />
 
 </div>
 
