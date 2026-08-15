@@ -94,20 +94,6 @@ I'm an **intensive daily user of Claude, Claude Code, and GitHub Copilot** — f
 
 ---
 
-## 📌 Recent Public Work
-
-| Project | Stack | What it is |
-|---|---|---|
-| **[portfolio](https://github.com/dierodfer/portfolio)** | Astro | Case studies & architecture write-ups |
-| **[cliOne](https://github.com/dierodfer/cliOne)** | Go | CLI tooling |
-| **[AgentColony](https://github.com/dierodfer/AgentColony)** | TypeScript | Multi-agent experiments |
-| **[temperatureElitechLog](https://github.com/dierodfer/temperatureElitechLog)** | Go | Log processing for Elitech temperature files |
-| **[desk-tasks](https://github.com/dierodfer/desk-tasks)** | TypeScript | Lightweight desktop task manager |
-| **[queeens](https://github.com/dierodfer/queeens)** | TypeScript | Logic puzzle game (8 queens) |
-| **[demo-hexagonal](https://github.com/dierodfer/demo-hexagonal)** | Java | Hexagonal architecture + API-first demo |
-
----
-
 ## 🔥 Contribution Activity
 
 <div align="center">
