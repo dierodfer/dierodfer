@@ -7,7 +7,7 @@
 <div align="center">
 
 ![Contributions](https://img.shields.io/badge/GitHub%20Contributions-632-blue?style=for-the-badge&logo=github)
-![Last 12 Months](https://img.shields.io/badge/Last%2012%20Months-358-2EA3F7?style=for-the-badge&logo=github)
+![Last 12 Months](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/dierodfer/dierodfer/main/contributions.json&style=for-the-badge)
 ![Repos](https://img.shields.io/badge/Public%20Repos-17-success?style=for-the-badge&logo=github)
 ![Experience](https://img.shields.io/badge/Experience-8+%20Years-orange?style=for-the-badge)
 [![AWS Certified](https://img.shields.io/badge/AWS%20Certifications-3+-FF9900?style=for-the-badge&logo=amazonaws)](https://www.credly.com/users/diego-rod)
@@ -73,7 +73,9 @@ I solve my own problems and issues developing solutions with **Go**, **React**, 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=dierodfer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+_(auto-updated daily — current streak, avg. commits/day, full-year calendar)_
+
+<img src="https://raw.githubusercontent.com/dierodfer/dierodfer/main/calendar.svg" alt="Contribution calendar" width="100%" />
 
 </div>
 
