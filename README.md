@@ -4,8 +4,6 @@
 
 </div>
 
-## 🎯 Quick Stats
-
 <div align="center">
 
 ![Contributions](https://img.shields.io/badge/GitHub%20Contributions-632-blue?style=for-the-badge&logo=github)
@@ -18,9 +16,7 @@
 
 ---
 
-## 👨‍💼 About Me
-
-**Software Architect & Tech Leader** based in **Málaga, Spain** 🇪🇸, with 8+ years designing and shipping systems at scale. I enjoy building, maintaining, and improving cloud applications — and I operate in **two worlds**:
+**Software Engineer & Tech Leader**, with 8+ years designing and shipping systems at scale. I enjoy building, maintaining, and improving cloud applications — and I operate in **two worlds**:
 
 ### 🏢 **By Day: Enterprise Architect**
 Design and lead microservices architectures for large-scale systems. Specialize in **Spring Boot**, **Hexagonal Architecture**, **Kafka**, and **Kubernetes**. Built systems handling millions of transactions. Strong background in DevOps, cloud infrastructure, and technical leadership.
