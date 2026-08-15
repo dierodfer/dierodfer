@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Tech+Leader;AI+%26+Agentic+Development+Advocate;Cloud+sercives+%7C+Modern+innovation;Java+%26+Go+%7C+Microservices+%26+Cloud" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Tech+Leader;AI+%26+Agentic+Development+Advocate;Cloud+services+%7C+Modern+innovation;Java+%26+Go+%7C+Microservices+%26+Cloud" alt="Typing SVG" />
 
 </div>
 
@@ -10,7 +10,7 @@
 ![Last 12 Months](https://img.shields.io/badge/Last%2012%20Months-358-2EA3F7?style=for-the-badge&logo=github)
 ![Repos](https://img.shields.io/badge/Public%20Repos-17-success?style=for-the-badge&logo=github)
 ![Experience](https://img.shields.io/badge/Experience-8+%20Years-orange?style=for-the-badge)
-![AWS Certified](https://img.shields.io/badge/AWS%20Certified-✓-FF9900?style=for-the-badge&logo=amazonaws)
+![AWS Certified](https://img.shields.io/badge/AWS%20Certifications-3+-FF9900?style=for-the-badge&logo=amazonaws)
 
 </div>
 
@@ -18,15 +18,15 @@
 
 **Software Engineer & Tech Leader**, with 8+ years designing and shipping systems at scale. I enjoy building, maintaining, and improving cloud applications — and I operate in **two worlds**:
 
-### 🏢 **By Day: Enterprise Architect**
-Design and lead microservices architectures for large-scale systems. Specialize in **Spring Boot**, **Hexagonal Architecture**, **Kafka**, and **Kubernetes**. Built systems handling millions of transactions. Strong background in DevOps, cloud infrastructure, and technical leadership.
+### **By Day: Enterprise Applications, End to End**
+I'm responsible end to end for my applications — not just the code, but the infrastructure they run on. Work daily with **Spring Boot**, **Hexagonal Architecture**, **Kafka**, and **Kubernetes**, on systems handling millions of transactions. Comfortable across the full stack: application design, DevOps, and the cloud infrastructure my apps depend on.
 
-### 🚀 **By Night: Modern Innovator**
+### **By Night: Modern Innovator**
 Ship fast with cutting-edge tech: **Go**, **React**, **Firebase**, **TypeScript**. Experiment with cloud-native approaches and elegant solutions. Build side projects that explore what's possible.
 
 ---
 
-## 🤖 AI & Agentic Development
+## AI & Agentic Development
 
 <div align="center">
 
@@ -34,29 +34,29 @@ Ship fast with cutting-edge tech: **Go**, **React**, **Firebase**, **TypeScript*
 
 </div>
 
-- 🧑‍🏫 **Mentor & advocate**: I coach engineers and teams on AI-assisted development — prompting techniques, effective human-in-the-loop review, and agentic workflow design — helping others move beyond copy-paste AI usage toward disciplined, repeatable practices.
-- ⚡ **Daily driver, not a novelty**: Claude and Claude Code are part of my everyday toolchain for architecture design, code review, debugging, documentation, and shipping production features — used intensively, every day, across both my enterprise and side-project work.
-- 🧩 **Multi-agent systems**: I build and experiment with agentic workflows and multi-agent orchestration (see **[AgentColony](https://github.com/dierodfer/AgentColony)**), exploring how autonomous agents collaborate on real engineering tasks.
-- 📐 **Methodology-first**: I care about *how* AI is used as much as *that* it's used — clear guardrails, verifiable output, and workflows that scale trust in AI-assisted engineering rather than eroding it.
+- **Mentor & advocate**: I coach engineers and teams on AI-assisted development — prompting techniques, effective human-in-the-loop review, and agentic workflow design — helping others move beyond copy-paste AI usage toward disciplined, repeatable practices.
+- **Daily driver, not a novelty**: Claude and Claude Code are part of my everyday toolchain for design, code review, debugging, documentation, and shipping production features — used intensively, every day, across both my enterprise and side-project work.
+- **Multi-agent systems**: I build and experiment with agentic workflows and multi-agent orchestration (see **[AgentColony](https://github.com/dierodfer/AgentColony)**), exploring how autonomous agents collaborate on real engineering tasks.
+- **Methodology-first**: I care about *how* AI is used as much as *that* it's used — clear guardrails, verifiable output, and workflows that scale trust in AI-assisted engineering rather than eroding it.
 
 ---
 
-## 🌟 Featured Achievements
+## Featured Achievements
 
 <div align="center">
 
-| 🎖️ | Achievement |
-|---|---|
-| **👥** | Tech Leader & Architecture Mentor |
-| **🤖** | AI & Agentic Development Advocate — teaching best practices to other engineers |
-| **⚡** | Intensive daily user of Claude, Claude Code & GitHub Copilot |
-| **🌍** | Worked across multiple industries at scale |
+| Achievement |
+|---|
+| Tech Lead & Mentor |
+| AI & Agentic Development Advocate — teaching best practices to other engineers |
+| Intensive daily user of Claude, Claude Code & GitHub Copilot |
+| Worked across multiple industries at scale |
 
 </div>
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 ### **Daily Tech**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -82,7 +82,7 @@ Ship fast with cutting-edge tech: **Go**, **React**, **Firebase**, **TypeScript*
 
 ---
 
-## 🔥 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -101,13 +101,13 @@ Ship fast with cutting-edge tech: **Go**, **React**, **Firebase**, **TypeScript*
 
 ---
 
-## 🚀 Quick Links
+## Quick Links
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/📊_PORTFOLIO-Case%20Studies-000000?style=for-the-badge)](https://dierodfer.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/diegorodfer)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-View%20Repos-181717?style=for-the-badge)](https://github.com/dierodfer)
-[![AWS Credly](https://img.shields.io/badge/🏆_AWS%20Certified-View%20Badge-FF9900?style=for-the-badge)](https://www.credly.com/users/diego-rod)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Case%20Studies-000000?style=for-the-badge)](https://dierodfer.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/diegorodfer)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repos-181717?style=for-the-badge)](https://github.com/dierodfer)
+[![AWS Credly](https://img.shields.io/badge/AWS%20Certifications-View%20Badges-FF9900?style=for-the-badge)](https://www.credly.com/users/diego-rod)
 
 </div>
