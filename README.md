@@ -6,21 +6,15 @@
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/GitHub%20Contributions-632-blue?style=for-the-badge&logo=github)
-![Last 12 Months](https://img.shields.io/badge/Last%2012%20Months-358-2EA3F7?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Public%20Repos-17-success?style=for-the-badge&logo=github)
 ![Experience](https://img.shields.io/badge/Experience-8+%20Years-orange?style=for-the-badge)
 [![AWS Certified](https://img.shields.io/badge/AWS%20Certifications-3+-FF9900?style=for-the-badge&logo=amazonaws)](https://www.credly.com/users/diego-rod)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-More%20Info-000000?style=for-the-badge)](https://dierodfer.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/diegorodfer)
+[![Credly](https://img.shields.io/badge/Credly-View%20Certifications-FF9900?style=for-the-badge)](https://www.credly.com/users/diego-rod)
 
 <img src="https://raw.githubusercontent.com/dierodfer/dierodfer/main/languages.svg" alt="Top Languages" width="450" />
 
 <img src="https://raw.githubusercontent.com/dierodfer/dierodfer/main/profile-stats.svg" alt="Profile stats" width="480" />
-
-## Social Platforms
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-More%20Info-000000?style=for-the-badge)](https://dierodfer.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/diegorodfer)
-[![Credly](https://img.shields.io/badge/Credly-View%20Certifications-FF9900?style=for-the-badge)](https://www.credly.com/users/diego-rod)
 
 </div>
 
