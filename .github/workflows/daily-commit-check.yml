@@ -1,0 +1,66 @@
+name: Daily commit check
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 19:00 UTC = 21:00 en España durante el horario de verano (CEST),
+    # 20:00 durante el horario de invierno (CET).
+    - cron: "0 19 * * *"
+
+permissions:
+  issues: write
+
+jobs:
+  check-commits:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Calcular el inicio del día en hora española
+        id: daterange
+        run: |
+          START=$(TZ=Europe/Madrid date -d "today 00:00" --iso-8601=seconds)
+          TODAY="${START:0:10}"
+          {
+            echo "today=${TODAY}"
+            echo "start=${START}"
+            echo "title=⚠️ Sin commits hoy - $(date -d "$TODAY" +%d/%m/%Y)"
+          } >> "$GITHUB_OUTPUT"
+          echo "Buscando commits desde ${START}"
+
+      - name: Buscar mis commits de hoy en todos mis repos
+        id: search
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          AUTHOR: ${{ github.repository_owner }}
+          START: ${{ steps.daterange.outputs.start }}
+        run: |
+          COUNT=$(gh search commits --author="$AUTHOR" --author-date=">=$START" --limit 1 --json sha --jq 'length')
+
+          if [ "$COUNT" -ge 1 ]; then
+            echo "Al menos un commit encontrado hoy."
+          else
+            echo "Ningún commit encontrado hoy."
+          fi
+          echo "count=${COUNT}" >> "$GITHUB_OUTPUT"
+
+      - name: Crear issue si no hay ningún commit
+        if: steps.search.outputs.count == '0'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          TITLE: ${{ steps.daterange.outputs.title }}
+          TODAY: ${{ steps.daterange.outputs.today }}
+        run: |
+          EXISTING=$(gh issue list --repo "$REPO" --state open --limit 50 --json title \
+            | jq --arg t "$TITLE" '[.[] | select(.title == $t)] | length')
+          if [ "$EXISTING" -gt 0 ]; then
+            echo "Ya existe un issue abierto para hoy; no se crea otro."
+            exit 0
+          fi
+
+          BODY=$(cat <<EOF
+          No se ha detectado ningún commit tuyo hoy (${TODAY}) en ninguno de tus repositorios, desde las 00:00 hora española hasta ahora.
+
+          Haz al menos un commit antes de medianoche para mantener tu racha 💪
+          EOF
+          )
+          gh issue create --repo "$REPO" --title "$TITLE" --body "$BODY"
