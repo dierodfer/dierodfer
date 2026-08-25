@@ -17,13 +17,12 @@ jobs:
       - name: Calcular el inicio del día en hora española
         id: daterange
         run: |
-          TODAY=$(TZ=Europe/Madrid date +%Y-%m-%d)
-          OFFSET=$(TZ=Europe/Madrid date +%z)          # p.ej. +0200
-          START="${TODAY}T00:00:00${OFFSET:0:3}:${OFFSET:3:2}"
+          START=$(TZ=Europe/Madrid date -d "today 00:00" --iso-8601=seconds)
+          TODAY="${START:0:10}"
           {
             echo "today=${TODAY}"
             echo "start=${START}"
-            echo "title=⚠️ Sin commits hoy - $(TZ=Europe/Madrid date +%d/%m/%Y)"
+            echo "title=⚠️ Sin commits hoy - $(date -d "$TODAY" +%d/%m/%Y)"
           } >> "$GITHUB_OUTPUT"
           echo "Buscando commits desde ${START}"
 
@@ -31,7 +30,7 @@ jobs:
         id: search
         env:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          AUTHOR: dierodfer
+          AUTHOR: ${{ github.repository_owner }}
           START: ${{ steps.daterange.outputs.start }}
         run: |
           COUNT=$(gh search commits --author="$AUTHOR" --author-date=">=$START" --limit 1 --json sha --jq 'length')
