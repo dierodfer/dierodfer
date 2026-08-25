@@ -5,14 +5,18 @@ on:
   schedule:
     - cron: "0 6 * * *" # daily at 06:00 UTC
 
+concurrency:
+  group: ${{ github.workflow }}
+
 permissions:
   contents: write
 
 jobs:
   languages:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: dierodfer
@@ -24,7 +28,7 @@ jobs:
           plugin_languages_threshold: 0%
           filename: languages.svg
 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: dierodfer
